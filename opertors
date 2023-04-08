@@ -1,0 +1,46 @@
+operators are special symobols which are used to perform some operation on operands
+
+type of operators
+
+1. unary operator
+2. binary operator
+
+unary operator
+1) increment operator (++)
+2) decrement operator (--)
+3) logical operator (!)
+4) bitwise operator (~)
+5) sizeof operator
+
+binary operator
+1) arithmetic operator (+,-,*,/,%)
+2) relational operator (==,!=,>,<,>=,<=)
+3) logical operator (&&,||)
+4) bitwise operator (&,|,^,<<,>>)
+5) assignment operator (=,+=,-=,*=,/=,%=,&=,|=,^=,<<=,>>=)
+6) ternary operator (?:)
+7) comma operator (,)
+
+
+
+= opertor
+----------
+it is used to assign value to variable right side value is assigned to left side variable
+a  = 10
+b = 20
+
+
+----
+a = 20
+b = 10
+
+
+c = a  a = 10   c =10
+a = b  b = 20   a = 20
+b = c  c = 10   b =10
+
+
+
+
+
+
