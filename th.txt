@@ -1,0 +1,26 @@
+Decision making statements
+we have 3 types of decision making statements
+1. if statement
+    if(condition){
+        //code
+    }
+    else{
+        //code
+    }
+
+    no1 =12 , no2 =12
+    if(no1>no2){
+
+    }
+    else if(no1==no2){
+
+    }
+    else{
+        
+    }
+
+
+
+
+2) switch statement
+3) loops
