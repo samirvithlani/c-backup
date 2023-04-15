@@ -17,6 +17,4 @@ void main(){
         printf("\n no is odd ::");
     }
 
-
-
 }

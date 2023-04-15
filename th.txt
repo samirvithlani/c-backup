@@ -16,7 +16,7 @@ we have 3 types of decision making statements
 
     }
     else{
-        
+
     }
 
 
@@ -24,3 +24,14 @@ we have 3 types of decision making statements
 
 2) switch statement
 3) loops
+
+
+
+take 3 no from users
+
+find average
+
+if avg > 80 Print Grade a
+if avg > 70 Print Grade b
+if avg > 60 Print Grade c
+if avg < 50 Print Grade -c
